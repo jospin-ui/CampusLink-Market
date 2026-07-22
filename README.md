@@ -1,15 +1,12 @@
 # CampusLink-Market
-Figma UI/UX prototype for a secure, university-exclusive peer-to-peer student marketplace. Assignment submission for INSY 8313 (MIS).
-# Group Assignment IV-a: E-Commerce Web/Mobile Application UI/UX Design
-**Course:** INSY 8313 – Management Information System (MIS)
-**Instructor:** Eric Maniraguha
-**Submission Date:** July 28, 2026
+Figma UI/UX prototype for a secure, university-exclusive peer-to-peer student marketplace. 
+# Group Assignment: E-Commerce Web/Mobile Application UI/UX Design
 
 ---
 
 ## 1. Group Information
-* **Member 1 Name:** [Insert Name] | **Registration Number:** [Insert Reg No]
-* **Member 2 Name:** [Insert Name] | **Registration Number:** [Insert Reg No]
+* **Member 1 Name:** [ISHIMWE JOSPIN] | **Registration Number:** [20251IMA092]
+* **Member 2 Name:** [MANZI GHISLAIN] | **Registration Number:** [20251IMA100]
 
 ---
 
