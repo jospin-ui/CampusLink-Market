@@ -1,0 +1,24 @@
+CampusLink-Market
+│
+├── README.md
+│
+├── docs
+│   ├── Problem_Statement.md
+│   ├── User_Persona.md
+│   ├── User_Flow.md
+│   ├── Design_Explanation.md
+│   ├── Accessibility.md
+│   └── Challenges.md
+│
+├── wireframes
+│
+├── high-fidelity-designs
+│
+├── prototype
+│
+├── assets
+│   ├── icons
+│   ├── images
+│   └── logo
+│
+└── screenshots
