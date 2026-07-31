@@ -1,1 +1,49 @@
+# CampusLink Market
 
+## Student Information
+- Name: Jospin Ishimwe
+- Course: INSY 8313 – Management Information System (MIS)
+
+## Project Title
+CampusLink Market
+
+## Platform Used
+Wix
+
+## Project Description
+CampusLink Market is a student-focused e-commerce website designed to enable university students to buy and sell campus essentials such as books, electronics, clothing, stationery, and other everyday items. The website provides a simple and user-friendly shopping experience.
+
+## Features Implemented
+- Homepage with welcome message and featured products
+- Product page with product images, names, prices, and descriptions
+- About page describing the business
+- Contact page with contact information and contact form
+- Shopping cart functionality
+- Responsive and user-friendly interface
+
+## Screenshots
+
+### Homepage
+![Homepage](images/homepage.png)
+
+### Products Page
+![Products](images/products.png)
+
+### Contact / Cart Page
+![Contact](images/contact-cart.png)
+
+## Live Website
+https://bevjospin.wixsite.com/campuslink-market
+
+## GitHub Repository
+https://github.com/jospin-ui/CampusLink-Market
+
+## Challenges Encountered
+- Matching the Figma design within the available Wix components.
+- Organizing products while maintaining a clean layout.
+- Completing the project within the available time.
+
+## Lessons Learned
+- Learned how to convert a Figma design into a working website using a no-code platform.
+- Improved UI/UX design and website organization skills.
+- Gained practical experience publishing a live website and documenting a project using GitHub.
